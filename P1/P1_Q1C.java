@@ -1,6 +1,6 @@
 import java.util.*;
 public class P1_Q1C {
-    public static void main(String []args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input n: ");
         int n = sc.nextInt();
